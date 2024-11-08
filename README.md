@@ -1,6 +1,6 @@
 # GitHub Portfolio Project
 
-A simple and responsive GitHub portfolio website for showcasing your starred repositories. This project dynamically fetches starred repositories using the GitHub API, displaying their names, descriptions, and the top language used. Each project card links directly to the GitHub repository, making it easy for visitors to explore your work.
+A simple and responsive GitHub portfolio website for showcasing your starred repositories that you worked on. This project dynamically fetches starred repositories using the GitHub API, displaying their names, descriptions, and the top language used. Each project card links directly to the GitHub repository, making it easy for visitors to explore your work.
 
 ## Technologies Used
 
@@ -16,8 +16,8 @@ A simple and responsive GitHub portfolio website for showcasing your starred rep
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shreeka/your-portfolio-repo.git
-   cd your-portfolio-repo
+   git clone https://github.com/shreeka/angular-portfolio-project.git
+   cd angular-portfolio-project
    ```
 
 2. Install dependencies (Make sure you have Node.js and npm installed):
