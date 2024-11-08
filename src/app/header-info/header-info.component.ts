@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {FULL_NAME} from "../../constants";
 
 @Component({
   selector: 'header-info',
@@ -11,4 +12,5 @@ export class HeaderInfoComponent {
     role: "Software Developer | Lifelong Learner",
     linkedinUrl: "https://www.linkedin.com/in/shreeka-shakya/"
   };
+  protected readonly FULL_NAME = FULL_NAME;
 }
