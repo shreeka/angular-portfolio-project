@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+  background:#e9ecef;
+}
+
+.header-bg {
+  background-color: grey;
+}
+
+/* CSS for hover effect on cards */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.card:hover {
+  transform: scale(1.02); /* Slight scaling */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+}
