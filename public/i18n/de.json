@@ -1,0 +1,9 @@
+{
+  "HEADER_MSG": "Willkommen zu meinem GitHub Portfolio! Entdecken Sie hier einige meiner Projekte.",
+  "githubProjects": {
+    "card": {
+      "LanguageUsed": "Verwendete Sprache"
+    },
+    "noProjects": "Keine Projekte verfügbar."
+  }
+}

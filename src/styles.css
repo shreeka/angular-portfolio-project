@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.scss";
 
 body{
   background:#e9ecef;
@@ -17,4 +18,8 @@ body{
 .card:hover {
   transform: scale(1.02); /* Slight scaling */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+}
+
+.navbar-custom {
+  background-color: #333333;
 }
