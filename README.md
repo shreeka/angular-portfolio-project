@@ -36,6 +36,9 @@ A simple and responsive GitHub portfolio website for showcasing your starred rep
 5. Open the application in your browser:
     http://localhost:4200
 
+## Website
+You can check out the live website here: [https://shreeka.github.io/](https://shreeka.github.io/)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
